@@ -1,0 +1,22 @@
+{
+  "channel": "stable",
+  "updated_at": "2026-10-06T02:10:42.558Z",
+  "app": {
+    "version": "0.9.0",
+    "file": "packages/chedam-app-0.9.0.tar.gz",
+    "sha256": "d6f0b6986b79ce91e2ebeb49092ac8a526d013768f30311e087ba389a350c4d6",
+    "size": 118582,
+    "notes": "Chedam 0.9.0 (P0): store setup wizard, device pairing, name + PIN sign-in, encrypted USB backups with restore test, hub health page, signed updates with automatic rollback.",
+    "published_at": "2026-10-06T02:10:42.558Z"
+  },
+  "history": [
+    {
+      "version": "0.9.0",
+      "file": "packages/chedam-app-0.9.0.tar.gz",
+      "sha256": "d6f0b6986b79ce91e2ebeb49092ac8a526d013768f30311e087ba389a350c4d6",
+      "size": 118582,
+      "notes": "Chedam 0.9.0 (P0): store setup wizard, device pairing, name + PIN sign-in, encrypted USB backups with restore test, hub health page, signed updates with automatic rollback.",
+      "published_at": "2026-10-06T02:10:42.558Z"
+    }
+  ]
+}
